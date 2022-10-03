@@ -442,10 +442,10 @@ form .enviar-btn:hover{
         order: 2;
     }
     .row{
-        margin-right: 10%;
+        margin-right: 12%;
     }
     .box{
-        margin-right: 10%;
+        margin-right: 12%;
     }
 
 }
@@ -492,5 +492,4 @@ form .enviar-btn:hover{
     .box{
         margin-right: 20%;
     }
-
 }
