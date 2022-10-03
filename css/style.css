@@ -447,6 +447,11 @@ form .enviar-btn:hover{
     .box{
         margin-right: 12%;
     }
+    .row p{
+        font-size: var(--p-font);
+        color:var(--2nd-main-color);
+        line-height: 30px;
+    }
 
 }
 
@@ -487,9 +492,18 @@ form .enviar-btn:hover{
         order: 2;
     }
     .row{
-        margin-right: 20%;
+        max-width: 270px;
+        width: 80%;
+        margin-right: 15%;
     }
     .box{
-        margin-right: 20%;
+        max-width: 270px;
+        width: 80%;
+        margin-right: 15%;
+    }
+    .row p{
+        font-size: var(--p-font);
+        color:var(--2nd-main-color);
+        line-height: 30px;
     }
 }
