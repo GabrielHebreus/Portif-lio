@@ -314,6 +314,7 @@ form .enviar-btn:hover{
   text-align: center;
   font-weight: 400;
   font-style: italic;
+  font-size: 1.2rem;
 }
 .btn-rd i {
   display: flex;
@@ -537,6 +538,7 @@ form .enviar-btn:hover{
     text-align: center;
     font-weight: 400;
     font-style: italic;
+    font-size: 1rem;
   }
   .btn-rd {
     width: 50px;
@@ -612,6 +614,7 @@ form .enviar-btn:hover{
     text-align: center;
     font-weight: 200;
     font-style: italic;
+    font-size: 1rem;
   }
   .btn-rd {
     width: 50px;
