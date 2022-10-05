@@ -310,11 +310,13 @@ form .enviar-btn:hover{
   display: flex;
   justify-content: center;
 }
-.redes-socias h3{
+
+.redes-socias  h3{
   text-align: center;
   font-weight: 400;
   font-style: italic;
   font-size: 1.2rem;
+  color: #f1f1f1f1;
 }
 .btn-rd i {
   display: flex;
