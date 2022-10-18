@@ -536,9 +536,6 @@ form .enviar-btn:hover{
     color: var(--2nd-main-color);
     line-height: 30px;
   }
-  .redes-socias  h3{
-    color: #f1f1f1f1;
-  }
   .btn-rd {
     width: 50px;
     height: 50px;
@@ -608,9 +605,6 @@ form .enviar-btn:hover{
     font-size: var(--p-font);
     color: var(--2nd-main-color);
     line-height: 30px;
-  }
-  .redes-socias  h3{
-    color: #f1f1f1f1;
   }
   .btn-rd {
     width: 50px;
