@@ -618,4 +618,10 @@ form .enviar-btn:hover{
     top: -115%;
     left: 3%;
   }
+
+@media (max-width: 320px) {
+  section{
+      padding: 120px 8.5%;
+    }
+  }
 }
